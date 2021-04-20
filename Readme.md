@@ -78,6 +78,8 @@ input Source code dari menu layoutnya
 
 Outputnya
 
+![About me Revisi Output](https://user-images.githubusercontent.com/56244106/115424008-79c0c480-a228-11eb-8585-d3391dc4bbeb.PNG)
+
 
 
 # Membuat Layout Kontak
