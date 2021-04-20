@@ -83,9 +83,25 @@ Outputnya
 
 
 # Membuat Layout Kontak
-   Berikut adalah pembuatan Layout tentang konfak
+  Berikut adalah pembuatan Layout tentang Kontak
    
-   Input dari Form List Kontak
+  input form List Box
+
+![input Form List Kontak](https://user-images.githubusercontent.com/56244106/115425026-6bbf7380-a229-11eb-8e8f-6c4a17d1f247.PNG)
+
+  Output dari Form List box
+ 
+![Output Form Listbox Revisi](https://user-images.githubusercontent.com/56244106/115425880-38311900-a22a-11eb-8496-eeff73b5317f.PNG)
+
+ Lalu Membuat Kontak Person Saya
+
+ Input 
+
+![Input Alamat Form List](https://user-images.githubusercontent.com/56244106/115426143-74647980-a22a-11eb-8255-133b06fd478f.PNG)
+
+Lalu Outputnya Seperti Ini
+
+![Kontak person Saya](https://user-images.githubusercontent.com/56244106/115426260-8b0ad080-a22a-11eb-9020-a6bd9f279084.PNG)
   
 
    
