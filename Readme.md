@@ -72,28 +72,13 @@
 
 Berikut ini adalah pembuatan menu layout about me
 
-![Href input menkoneksikan Kontek dengan index](https://user-images.githubusercontent.com/56244106/115181916-29037b80-a103-11eb-985b-70dc2323de77.PNG)
-Href ini mengkoneksikan dari file about ke file index home html
+input Source code dari menu layoutnya
 
-Stelah itu membuat Judul Teks Headernya
+![Input About Me Revisi](https://user-images.githubusercontent.com/56244106/115423927-6ada1200-a228-11eb-9f6b-d0c733997fc4.PNG)
 
-![Text center heading input](https://user-images.githubusercontent.com/56244106/115182069-80a1e700-a103-11eb-8287-349df5719a41.PNG)
+Outputnya
 
-Lalu Akan muncul output nya seperti berikut
 
-![Output Navigasi About me](https://user-images.githubusercontent.com/56244106/115182150-ad55fe80-a103-11eb-96c3-09836d8c4d6b.PNG)
-
-Membuat Main Content Desk dari menu about berikut adalah inputanya
-
-![Section  hero Desk About](https://user-images.githubusercontent.com/56244106/115182195-c65eaf80-a103-11eb-9508-ceda6a877d44.PNG)
-
-Lalu Outputnya Seperti Berikut
-
-![output Content Artikel About](https://user-images.githubusercontent.com/56244106/115182238-d8405280-a103-11eb-8c7e-ccbb42201fc5.PNG)
-
-dan Hasil dari semua nya
-
-![Tampilan about me](https://user-images.githubusercontent.com/56244106/115182389-1b022a80-a104-11eb-8ac1-271067a11d27.PNG)
 
 # Membuat Layout Kontak
    Berikut adalah pembuatan Layout tentang konfak
