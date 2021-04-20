@@ -84,38 +84,11 @@ Outputnya
 
 # Membuat Layout Kontak
    Berikut adalah pembuatan Layout tentang konfak
+   
+   Input dari Form List Kontak
+  
 
-   Input text Center
-
-![Text center Heading Kontak saya](https://user-images.githubusercontent.com/56244106/115245052-ba4c0f80-a14e-11eb-8439-94ab8b325a23.PNG)
-
-  Output dari Text center Judul
-
-![Text Center Kontak me](https://user-images.githubusercontent.com/56244106/115246738-5b879580-a150-11eb-9521-23ad44a6d86b.PNG)
-
-   ini adalah form list dari kontak berikut adalah source code
-
-![input Form List Kontak](https://user-images.githubusercontent.com/56244106/115246086-c5ec0600-a14f-11eb-8d8a-40c6fc5a0286.PNG)
-
- Output dari form list Source code
-
-![output form list](https://user-images.githubusercontent.com/56244106/115246933-87a31680-a150-11eb-9bcb-58080a2fc692.PNG)
-
- Input dari alamat form dan buton berikut source code input
-
-![Input Alamat Form List](https://user-images.githubusercontent.com/56244106/115247019-9b4e7d00-a150-11eb-9608-ea00f062c512.PNG)
-
-Output dari Source Codenya
-
-![Output Alamat saya](https://user-images.githubusercontent.com/56244106/115247845-59720680-a151-11eb-925c-f29ec6b264dd.PNG)
-
-Input dari proses Icon
-
-![Input href icon button](https://user-images.githubusercontent.com/56244106/115248021-7f97a680-a151-11eb-83f0-f8e162d8b6ff.PNG)
-
-Output dari proses tersebut
-
-![output href icon alamat](https://user-images.githubusercontent.com/56244106/115248089-91794980-a151-11eb-9f35-666e248fa94c.PNG)
+   
 
 
 
